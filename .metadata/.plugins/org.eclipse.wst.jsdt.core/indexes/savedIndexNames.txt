@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Marino\fj22-argentum\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1133058408.index
+1895021769.index
+3577361069.index
+2069499422.index
+2478387718.index
+1803202374.index

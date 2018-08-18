@@ -1,0 +1,22 @@
+import javax.faces.bean.ManagedBean;
+
+/**
+ * 
+ */
+
+/**
+ * @author Ronaldo Marino
+ *
+ */
+@ManagedBean
+public class OlaMundoBean {
+	
+	private String mensagem="Quem é você?";
+
+	public String getMensagem() {
+		return mensagem;
+	}
+	
+	
+
+}

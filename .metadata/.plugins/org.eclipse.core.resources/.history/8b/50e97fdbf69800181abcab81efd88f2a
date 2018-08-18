@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package br.com.caelum.argentum.bean;
+
+/**
+ * @author Ronaldo Marino
+ *
+ */
+@ManagedBean
+public class ArgentumBean {
+
+}

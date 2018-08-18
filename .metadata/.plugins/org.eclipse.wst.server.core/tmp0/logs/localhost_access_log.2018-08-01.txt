@@ -1,0 +1,4 @@
+127.0.0.1 - - [01/Aug/2018:22:38:48 -0300] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:22:39:21 -0300] "GET /fj22-argentum-web/olaMundo.xhtml HTTP/1.1" 404 1013
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:22:39:30 -0300] "GET /fj22-argentum-web/olaMundo.xhtml HTTP/1.1" 404 1013
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:22:40:33 -0300] "GET /fj22-argentum-web/olaMundo.xhtml HTTP/1.1" 404 1013
