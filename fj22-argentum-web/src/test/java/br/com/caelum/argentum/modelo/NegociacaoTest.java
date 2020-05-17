@@ -16,16 +16,16 @@ public class NegociacaoTest {
 
 	@Test
 	public void datadaNegociacaoEhImutavel() {
-		//Criar no dia 15
+		//Criar no dia 20
 		Calendar c = Calendar.getInstance();
 		
-		c.set(Calendar.DAY_OF_MONTH, 15);
+		c.set(Calendar.DAY_OF_MONTH, 20);
 		
 		Negociacao n = new Negociacao(10, 5, c);
 		
 		n.getData().set(Calendar.DAY_OF_MONTH, 20);
 		
-		Assert.assertEquals(15, n.getData().get(Calendar.DAY_OF_MONTH));
+		Assert.assertEquals(20, n.getData().get(Calendar.DAY_OF_MONTH));
 	}
 	
 	@Test (expected=IllegalArgumentException.class)
